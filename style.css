@@ -1,12 +1,9 @@
 .three {
-background-image: url(/ce12aad8-eeb8-4560-977f-b0be9dd7b66a.jpg);
-background-repeat: no-repeat;
-background-position: center;
-background-size: cover;
-position: relative;
-width: 100%;
-min-height: 60rem;
-min-width: 20rem;
+ background-color: white;
+padding: 0;
+margin: 0;
+height: 100vh;
+width:100vw;
 display:flex;
 align-items: center;
 justify-content: center;
