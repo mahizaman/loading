@@ -73,4 +73,4 @@ $words.each( function() {
 	var $this = $( this ),
 		ticker = new Ticker( $this ).reset();
 	$this.data( 'ticker', ticker  );
-});
+}); 
